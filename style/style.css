@@ -264,8 +264,8 @@ ul{
 
 /*  Interior */
 
-.design{
-    margin-bottom: 150px;
+.design_interior{
+    margin-bottom: 100px;
 }
 
 .design_interior{
@@ -293,8 +293,10 @@ ul{
 }
 
 .design_cell_text{
-    margin-bottom: 30px;
+    margin-bottom: 35px;
 }
+
+
 
 
 
