@@ -148,7 +148,7 @@ ul{
     margin-left: auto;
 }
 
-.concept_title{
+.section_title{
     color: #F402A2;
     text-transform: uppercase;
     font-family: 'Corporate-A-Bold';
@@ -163,4 +163,48 @@ ul{
     font-size: 24px;
     line-height: 120%;
     margin-bottom: 25px;
+}
+
+/* PRIMIER */
+
+.premier{
+    margin-bottom: 150px;
+}
+
+.premier_inner{
+    display: flex;
+    gap: 60px;
+}
+
+.premier_text{
+    font-size: 16px;
+    line-height: 120%;
+    margin-bottom: 27px;
+}
+
+.more_btn{
+    display: block;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Corporate A';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 120%;
+    color: #F402A2;
+    border: 1px solid #F402A2;
+    padding: 14px;
+    margin-top: 25px;
+    transition: all 0.3s;
+}
+
+.more_btn:hover{
+    border: 1px solid #53A1CB;
+    color: #53A1CB;
+}
+
+.premier_text_2{
+    margin-top: 20px;
+    font-size: 16px;
+    line-height: 120%;
 }
