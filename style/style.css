@@ -46,10 +46,6 @@ ul{
     padding: 0 10px;
 }
 
-.header{
-
-}
-
 .header_top{
     display: flex;
     justify-content: space-between;
@@ -164,7 +160,6 @@ ul{
 }
 
 .concept_desc{
-    font-family: 'Roboto Condensed';
     font-size: 24px;
     line-height: 120%;
     margin-bottom: 25px;
