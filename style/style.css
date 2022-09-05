@@ -346,6 +346,16 @@ margin: 0 27px;
     width: 255px;
 }
 
+/* LAAT IMAGE */
+
+.last_img{
+    max-width: 100%;
+    display: block;
+    object-fit: cover;
+}
+
+/* ADAPTIVE */
+
 
 
 
