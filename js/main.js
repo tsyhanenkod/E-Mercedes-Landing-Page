@@ -1,9 +1,9 @@
 $(function(){
 
   $('.ds_slider').slick({
-    infinite: true,
+    dots: false,
     slidesToShow: 4,
-    slidesToScroll: 1
+    variableWidth: true
   });
 
 });

@@ -264,6 +264,10 @@ ul{
 
 /*  Interior */
 
+.design{
+    margin-bottom: 100px;
+}
+
 .design_interior{
     margin-bottom: 100px;
 }
@@ -296,10 +300,12 @@ ul{
     margin-bottom: 35px;
 }
 
-.slider_img{
-    margin-right: 20px;
-    margin-left: 20px;
+/*  SLIDER */
+
+.slick-slide{
+margin: 0 27px;
 }
+
 
 
 
