@@ -381,6 +381,20 @@ margin: 0 27px;
     .concept_img{
         margin-bottom: 25px;
     }
+
+    .design_interior_img{
+        width: 100%;
+        margin-bottom: 25px;
+    }
+
+    .design_interior{
+        display: block;
+    }
+
+    .design_interior .design_interior_img_2{
+        max-width: 100%;
+        width: auto;
+    }
 }
 
 @media(max-width: 1050px){
@@ -439,6 +453,18 @@ margin: 0 27px;
     .title_desc{
         font-size: 18px;
     }
+
+    .video{
+        margin-bottom: 40px;
+    }
+
+    .concept{
+        margin-bottom: 40px;
+    }
+
+    .premier{
+        margin-bottom: 40px;
+    }
 }
 
 @media(max-width: 630px){
@@ -453,6 +479,15 @@ margin: 0 27px;
     .concept_desc{
         font-size: 16px;
         margin-bottom: 10px;
+    }
+
+    .ds_text{
+        margin: 75px auto;
+        display: block;
+    }
+
+    .ds_text_column{
+        width: 100%;
     }
 }
 
@@ -530,6 +565,10 @@ margin: 0 27px;
 
     .concept_desc{
         font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .design{
         margin-bottom: 10px;
     }
 }
