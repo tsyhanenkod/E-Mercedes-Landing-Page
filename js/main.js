@@ -10,7 +10,7 @@ $(function(){
       {
         breakpoint: 711,
         settings:{
-          variableWidth: false,
+          variableWidth: true,
           slidesToShow: 1,
         }
       }
